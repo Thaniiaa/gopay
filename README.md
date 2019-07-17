@@ -14,4 +14,6 @@ php send.php
 
 no HP mu : di awali angka 62857xXx
 
+Masukin OTP : otp 4 digit di sms NO HP mu
+
 Thank to : Muhammad Ikhsan Aprilyadi
